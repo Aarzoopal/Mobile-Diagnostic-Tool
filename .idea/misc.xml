@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1865" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1865" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_accelerometer_sensor.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_available_sensors.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_battery_info.xml" value="0.16" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_call_logs.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_camera_sound.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_camera_sound2.xml" value="0.1" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_display_testing.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_gravity_sensor.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_light_sensor.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_magno_meter_sensor.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_main.xml" value="0.178125" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_network_info.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_orientation_sensor.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_proximity_sensor.xml" value="0.12" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_rotation_vector.xml" value="0.1496365968362548" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_sensors.xml" value="0.18" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_software_hardware.xml" value="0.22" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_sound_testing.xml" value="0.1" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_splash.xml" value="0.178125" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/activity_system_info.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/app_bar_main.xml" value="0.178125" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/call_log_item.xml" value="0.1621376811594203" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/content_main.xml" value="0.178125" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/fragment_contact.xml" value="0.18" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/fragment_dashboard.xml" value="0.18" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/fragment_help.xml" value="0.18" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/fragment_home.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/layout/nav_header_main.xml" value="0.14621633176571183" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/menu/activity_main_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/aarzo/StudioProjects/MobileDiagnosticApplication/app/src/main/res/menu/main.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

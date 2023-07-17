@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.mobilediagnosticapplication">
+
+    <uses-sdk
+        android:minSdkVersion="27"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.READ_CALL_LOG" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MobileDiagnosticApplication"
+        tools:targetApi="31">
+        <activity
+            android:name=".RotationVector"
+            android:exported="false" />
+        <activity
+            android:name=".OrientationSensor"
+            android:exported="false" />
+        <activity
+            android:name=".MagnometerSensor"
+            android:exported="false" />
+        <activity
+            android:name=".GravitySensor"
+            android:exported="false" />
+        <activity
+            android:name=".AvailableSensors"
+            android:exported="false" />
+        <activity
+            android:name=".AccelerometerSensor"
+            android:exported="false" />
+        <activity
+            android:name=".LightSensor"
+            android:exported="false" />
+        <activity
+            android:name=".ProximitySensor"
+            android:exported="false" />
+        <activity
+            android:name=".DisplayTesting"
+            android:exported="false"
+            android:label="@string/display" />
+        <activity
+            android:name=".SoundTesting"
+            android:exported="false"
+            android:label="@string/sound" />
+        <activity
+            android:name=".NetworkInfo"
+            android:exported="false"
+            android:label="@string/network_info" />
+        <activity
+            android:name=".CameraSound"
+            android:exported="false"
+            android:label="@string/cam_sound" />
+        <activity
+            android:name=".Sensors"
+            android:exported="false"
+            android:label="@string/sensor_info" />
+        <activity
+            android:name=".CallLogs"
+            android:exported="false"
+            android:label="@string/call_logs" />
+        <activity
+            android:name=".SoftwareHardware"
+            android:exported="false"
+            android:label="@string/soft_hard" />
+        <activity
+            android:name=".SystemInfo"
+            android:exported="false"
+            android:label="@string/system_info" />
+        <activity
+            android:name=".BatteryInfo"
+            android:exported="false"
+            android:label="@string/battery_info" />
+        <activity
+            android:name=".SplashActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/Theme.MobileDiagnosticApplication.NoActionBar" />
+
+        <service android:name=".MyService" />
+    </application>
+
+</manifest>

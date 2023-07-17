@@ -1,0 +1,5 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent" android:layout_height="match_parent" tools:context=".RotationVector">
+    <TextView android:id="@+id/x_value" android:layout_width="123dp" android:layout_height="wrap_content" android:text="@string/x_value" android:textColor="@color/black" android:textSize="30dp" android:textStyle="bold"/>
+    <TextView android:id="@+id/y_value" android:layout_width="136dp" android:layout_height="wrap_content" android:text="@string/y_value" android:textColor="@color/black" android:textSize="30dp" android:textStyle="bold"/>
+    <TextView android:id="@+id/z_value" android:layout_width="123dp" android:layout_height="wrap_content" android:text="@string/z_value" android:textColor="@color/black" android:textSize="30dp" android:textStyle="bold"/>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MobileDiagnosticApplication</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Mobile Diagnostic Tool</string>
+    <string name="nav_header_subtitle">Lets check your phone status</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="Main_name">Mobile Diagnostic Tool</string>
+    <string name="menu_dashboard">Dashboard</string>
+    <string name="welcome_text">Welcome in MDT</string>
+    <string name="main_tip">Tip: To get the information about your device please click on menu bar</string>
+    <string name="menu_Contact">Contact Us</string>
+    <string name="menu_help">Help</string>
+    <string name="system_info">System info</string>
+    <string name="soft_hard">Software/Hardware</string>
+    <string name="contact_help">Tell us how we can help </string>
+    <string name="contact_text">Include device information ? (optional) Technical details like your model and setting can help us answer your question.</string>
+    <string name="battery_info">Battery info</string>
+    <string name="submit_btn">Submit</string>
+    <string name="cam_sound">Camera</string>
+    <string name="display">Display Testing</string>
+    <string name="sound">Sound Testing</string>
+    <string name="sensor_info">Sensor</string>
+    <string name="call_logs">Call Logs</string>
+    <string name="network_info">Network</string>
+    <string name="cam_info">Get Camera Info</string>
+    <string name="sound_info">Get Sound Info</string>
+    <string name="display_info">Get Display Info</string>
+    <string name="sensor_1">Accelerometer Sensor</string>
+    <string name="sensor_2">Proximity Sensor</string>
+    <string name="sensor_4">Gravity Sensor</string>
+    <string name="sensor_5">Magnometer Sensor</string>
+    <string name="sensor_6">Orientation Sensor</string>
+    <string name="sensor_7">Rotation Sensor</string>
+    <string name="sensor_3">Light Sensor</string>
+    <string name="temperature_label">Temperature: %1$.1f °C</string>
+    <string name="x_value">%1$.2f°</string>
+    <string name="y_value">%1$.2f°</string>
+    <string name="z_value">%1$.2f°</string>
+    <string name="sensor_all">All Sensors</string>
+</resources>
